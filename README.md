@@ -33,8 +33,7 @@ Currently focused on **JavaScript, TypeScript, React.js, Next.js, Node.js, WebSo
 # 🌟 Contribution Stats
 ![Harsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshgupta751&theme=radical)
 
-**📂 Public Repositories:** [![Repo Count](https://img.shields.io/badge/Public%20Repos-??-blue)](https://github.com/harshgupta751)  
-**⚡ Contributions (Past Year):** [![Contributions](https://img.shields.io/badge/Contributions-??-green)](https://github.com/harshgupta751)  
+
 
 ---
 
