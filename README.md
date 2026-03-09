@@ -11,7 +11,7 @@ Currently focused on **JavaScript, TypeScript, React.js, Next.js, Node.js, WebSo
 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshachieve100)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshgupta-portfolio-nine.vercel.app)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1wFU3kK37jDNGv9GsbuJ89pLkypD9c61b/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1jouncFu-CRBjzI4g1fqjHZSvy30bT4zr/view?usp=sharing)
 
 ---
 
