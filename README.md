@@ -159,7 +159,7 @@ I'm always open to interesting conversations, collaboration on open-source proje
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshachieve100)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshachieve300@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HarshGupta100)
+[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-gupta-beta.vercel.app/)
 
 </div>
 
