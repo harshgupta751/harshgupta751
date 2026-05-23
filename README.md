@@ -142,8 +142,8 @@ KIET Group of Institutions, Ghaziabad · **GPA: 8.22 / 10** · *2024 – 2028*
 
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshgupta751&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta751&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=harshgupta751&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta751&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshgupta751&theme=tokyonight&hide_border=true)
 
